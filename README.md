@@ -1,5 +1,5 @@
-# amphibian_n-mixture_models
-Bayesian n-mixture models for estimating seasonal abundance of breeding amphibians in vernal pools
+# vernal_pools
+Bayesian n-mixture models and occupancy models for estimating abundance of breeding amphibians in vernal pools and seasonal trends in occupancy
 
 ## File descriptions
 Coming soon
