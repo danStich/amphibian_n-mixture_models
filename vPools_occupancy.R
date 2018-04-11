@@ -8,7 +8,7 @@
 # Data manipulation -------------------------------------------------------
 # Daily count data
   # Read in the herps data
-    herps = read.csv('vpools.csv')
+    herps = read.csv('vpools_2016.csv')
     # herps2 = read.csv('vPools_2017.csv')
     # herps2 = herps2[1:6]
     # herps3 = rbind(herps, herps2)
